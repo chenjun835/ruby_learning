@@ -1,0 +1,9 @@
+---
+:orm: activerecord
+:test: rspec
+:mock: none
+:script: jquery
+:renderer: slim
+:stylesheet: none
+:namespace: MyBlog
+:migration_format: timestamp
